@@ -10,7 +10,7 @@ const phrases = [
         { phrase: "It abandoned the plan ______ complaints from staff.", answer: "after." },
         { phrase: "We have to consider the existence of life in another planets.________, we have to explore the space.", answer: "After" },
         { phrase: "She was stressed, so she ________ went to get some tea before solving the problem.", answer: "first" },
-        { phrase: "You go there, he goes there and ________ she goes here", answer: "finally" }
+        { phrase: "_______ after this, the band's members graduated from high school.", answer: "Shortly" }
       ]
     },
   ];
